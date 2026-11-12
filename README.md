@@ -155,16 +155,4 @@ Programming assignments, practical experiments and projects from my CSE journey.
 
 </div>
 
-**Open to learning, collaboration and building something meaningful.**
-
-<br/>
-
-`while(alive) { learn(); build(); improve(); }`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:080B16&height=100&section=footer" width="100%"/>
-
-</div>
-
 <!-- END OF README -->
