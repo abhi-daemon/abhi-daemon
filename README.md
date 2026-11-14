@@ -104,10 +104,6 @@ Programming assignments, practical experiments and projects from my CSE journey.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhi-daemon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-daemon&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F7FF&text_color=FFFFFF" />
-
 <br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=abhi-daemon&theme=tokyonight&hide_border=true&background=080B16&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
